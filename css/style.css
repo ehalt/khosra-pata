@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=MuseoModerno:wght@100&display=swap');
+/* =======> font-family: 'Metal Mania', cursive; <======= */
+
+
+.hpd{
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+
+.rs h1{
+    padding-top: 2%;
+    font-size: 65px;
+    font-weight: bold;
+    font-family: 'Metal Mania', cursive;
+}
+/* ============> list stuff <============== */
+.htmlimg img{
+    width:100%;
+}
+.cssimg img{
+    width:100%;
+}
+
+.jsimg img{
+    width:100%;
+}
+
+.py{
+    margin-top: 8%;
+}
+
+.pyimg img{
+    width:100%;
+}
